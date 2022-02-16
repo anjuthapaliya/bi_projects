@@ -1,1 +1,1 @@
-# bi_projects
+# BI Projects
